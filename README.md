@@ -12,6 +12,6 @@ When complete, you'll be able to grab random quotes from the command line, like 
 > 
 > Speak like a human
 
-## Start the Tutorial
+
 
 You can find your next step in [this repo's issues](../../issues/)!
